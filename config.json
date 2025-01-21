@@ -1,0 +1,14 @@
+{
+    "app_host": "0.0.0.0",
+    "app_port": "8897",
+    "log_file": "../log/meme_server.log",
+    "milvus_server_host": "127.0.0.1",
+    "milvus_server_port": "19530",
+    "milvus_collection_name": "meme_search",
+    "model_name": "clip_vit_base_patch16",
+    "milvus_embedding_dim": 512,
+    "images_folder": "meme",
+    "csv_file_path": "data/meme_images.csv",
+    "tx_sid": "xxx",
+    "tx_skey": "xxx"
+}
